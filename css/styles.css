@@ -1,0 +1,22 @@
+body{
+    background-color: #D3E4CD;        /* style tag Css This is a css comment*/
+    
+}
+h1{
+    text-shadow: 2px 2px 5px #66bfbf;
+    
+}
+h3{
+    text-shadow: 2px 2px 5px #66bfbf;
+}
+hr{
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: grey;
+    width: 2%;
+
+   
+}
+a:hover{
+    background-color: #4285F4;
+}
